@@ -1,8 +1,0 @@
-Tianyi Zhang
-ECE3220
-
-Program 4
-
-Known Design: the program is to recover the files (both deleted and undeleted) located on a FAT12 disk image and printing a summary of each file include name, directory name, path, and file size
-	
-Known Problem: for some of the deleted file recovery, my program will miss some bytes of the file due to unknown reason. Otherwise, the program does not have any known problem.
