@@ -3,4 +3,4 @@ The program is to recover the files (both deleted and undeleted) located on a FA
 
 # Implementation
 make
-./notjustcat simple.img name_of_folder_you_want_to_save_the_result
+./notjustcat simple.img folder_you_want_to_save_the_result
